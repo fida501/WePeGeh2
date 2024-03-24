@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuestionAndAnswers>
+	<QuestionSet>
+		<Question>The flowers __ very memorable and beautiful</Question>
+		<Answers>
+			<Answer>A. Am</Answer>
+			<Answer>B. Are</Answer>
+			<Answer>C. Is</Answer>
+			<Answer>D. Were</Answer>
+		</Answers>
+		<CorrectAnswerIndex>2</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Mira __ very talented</Question>
+		<Answers>
+			<Answer>A. Is</Answer>
+			<Answer>B. Are</Answer>
+			<Answer>C. Where</Answer>
+			<Answer>D. Am</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Budi __ watching TV when somebody knocked the door yesterday.</Question>
+		<Answers>
+			<Answer>A. Is</Answer>
+			<Answer>B. Am</Answer>
+			<Answer>C. Was</Answer>
+			<Answer>D. Were</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>My friend and I __ Indonesian</Question>
+		<Answers>
+			<Answer>A. Was</Answer>
+			<Answer>B. Are</Answer>
+			<Answer>C. Is</Answer>
+			<Answer>D. Am</Answer>
+		</Answers>
+		<CorrectAnswerIndex>2</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>I __ studying English right now</Question>
+		<Answers>
+			<Answer>A. Was</Answer>
+			<Answer>B. Are</Answer>
+			<Answer>C. Is</Answer>
+			<Answer>D. Am</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Complete the sentence: "My name __ John."</Question>
+		<Answers>
+			<Answer>A. am</Answer>
+			<Answer>B. is</Answer>
+			<Answer>C. are</Answer>
+			<Answer>D. be</Answer>
+		</Answers>
+		<CorrectAnswerIndex>2</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Sita: You look pale. I hope everything ___(1) all right.
+			Diaz: I __(2) fine, but I feel a bit tired.
+			Sita: Why don't you have a rest?
+			Diaz: In a moment, please. I am going to have a shower first
+			Sita: O.K.
+			Complete the sentence
+		</Question>
+		<Answers>
+			<Answer>A. Were, Am</Answer>
+			<Answer>B. Am, Is</Answer>
+			<Answer>C. Is, Am</Answer>
+			<Answer>D. Is, Was</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Reno: What doyou think of my tumbler?
+			Mitha: Wow! It __(1) unique. It looks like a robot. Where did you buy it?
+			Reno: From an online shop. Do you want to buy one?
+			Mitha: I do. You know, I __(2) fond of unique items. Will you order one for me?
+			Reno: Sure.
+			Complete the sentence
+		</Question>
+		<Answers>
+			<Answer>A. Is, Am</Answer>
+			<Answer>B. Is, Were</Answer>
+			<Answer>C. Am, Is</Answer>
+			<Answer>D. Was, Are</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Complete the sentence: "My parents ___ both doctors."</Question>
+		<Answers>
+			<Answer>A. Am</Answer>
+			<Answer>B. Is</Answer>
+			<Answer>C. Are</Answer>
+			<Answer>D. Be</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Which of the following sentences is correct?</Question>
+		<Answers>
+			<Answer>A. I is very excited for the concert</Answer>
+			<Answer>B. You am a good dancer</Answer>
+			<Answer>C. They are coming to the party later</Answer>
+			<Answer>D. She be tired after the long journey</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+</QuestionAndAnswers>

@@ -1,0 +1,29 @@
+﻿<QuestionAndAnswers>
+	<QuestionSet>
+		<Question>		Ciko : “____, where are you going?”
+		Vita : “Good afternoon, I’ll have lunch at the canteen.”
+		Ciko : “Let’s go together.”</Question>
+		<Answers>
+			<Answer>A. Good Night</Answer>
+			<Answer>B. Good Morning</Answer>
+			<Answer>C. Good Afternoon</Answer>
+			<Answer>D. Good Bye</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>		Biyan : “Well Fida, I think we have to go now, the movie is started to play”
+		Fida : “oh okay, __”
+		Biyan : “see you.”
+		</Question>
+		<Answers>
+			<Answer>A. How Are You</Answer>
+			<Answer>B. Where Are You Going</Answer>
+			<Answer>C. Nice To Meet You</Answer>
+			<Answer>D. See You Later</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>
+	</QuestionAndAnswers>
+
+

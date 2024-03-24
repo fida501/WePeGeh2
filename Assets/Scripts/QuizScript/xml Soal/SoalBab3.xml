@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuestionAndAnswers>
+	<QuestionSet>
+		<Question>
+			I need an umbrella because it’s ___ right now.
+		</Question>
+		<Answers>
+			<Answer>A. Rain</Answer>
+			<Answer>B. Rains</Answer>
+			<Answer>C. Rained</Answer>
+			<Answer>D. Raining</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>They ______ a cup of coffee, but chocolate.</Question>
+		<Answers>
+			<Answer>A. Is not collecting</Answer>
+			<Answer>B. Are not collecting</Answer>
+			<Answer>C. Are not drinking</Answer>
+			<Answer>D. Is not drinking</Answer>
+		</Answers>
+		<CorrectAnswerIndex>2</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Tegar : Now, close your eyes and listen carefully. What ___(I, do)?
+			Prit : You are knocking the door.
+		</Question>
+		<Answers>
+			<Answer>A. Am I doing</Answer>
+			<Answer>B. Are I doing</Answer>
+			<Answer>C. Is I doing</Answer>
+			<Answer>D. Aren’t I doing</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>___they___ in a good company? Yes, they are.</Question>
+		<Answers>
+			<Answer>A. Am – talking</Answer>
+			<Answer>B. Were – studying</Answer>
+			<Answer>C. Are – working</Answer>
+			<Answer>D. Is – going</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Diana: Look! It’s snowing.
+			Anggi: So beautiful. This is the first time I have ever seen snow. It __ (snow,not) in my country.
+		</Question>
+		<Answers>
+			<Answer>A. Am not snowing</Answer>
+			<Answer>B. Are not snowing</Answer>
+			<Answer>C. Is not snowing</Answer>
+			<Answer>D. Was not snowing</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>“Nina is a chef. She always prepares food at her cafe. She sells many delicious foods such as cakes, bakeries, dishes, and drinks. Her cafe is open from 07.00 am to 10.00 pm. Now, it is 10.00 am. What do you think Nina is doing this time?”</Question>
+		<Answers>
+			<Answer>A. Nina is delivering posts around the city.</Answer>
+			<Answer>B. Nina is going to sleep because it’s time for break.</Answer>
+			<Answer>C. Nina is closing her cafe because it is about to be bankrupt.</Answer>
+			<Answer>D. Nina is cooking and selling dishes for her cafe.</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			A: What are the girls doing?
+			B: They ____ card
+		</Question>
+		<Answers>
+			<Answer>A. Are playing</Answer>
+			<Answer>B. Played</Answer>
+			<Answer>C. Play</Answer>
+			<Answer>D. Have played</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Jono ___ his kite now. He is at school.</Question>
+		<Answers>
+			<Answer>A. Don’t fly</Answer>
+			<Answer>B. Isn’t flying</Answer>
+			<Answer>C. Doesn’t fly</Answer>
+			<Answer>D. Aren’t playing</Answer>
+		</Answers>
+		<CorrectAnswerIndex>2</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>I’m sorry about the noise you are hearing. She ___ a concert.</Question>
+		<Answers>
+			<Answer>A. Is practicing</Answer>
+			<Answer>B. Practicing</Answer>
+			<Answer>C. Practiced</Answer>
+			<Answer>D. Practice</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>The children are ___ by the river.</Question>
+		<Answers>
+			<Answer>A. fishing</Answer>
+			<Answer>B. fishes</Answer>
+			<Answer>C. fished</Answer>
+			<Answer>D. fish</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+</QuestionAndAnswers>

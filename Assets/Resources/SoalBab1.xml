@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuestionAndAnswers>
+	<QuestionSet>
+		<Question>Ciko : “____, where are you going?”
+			Vita : “Good afternoon, I’ll have lunch at the canteen.”
+			Ciko : “Let’s go together.”
+		</Question>
+		<Answers>
+			<Answer>A. Good Night</Answer>
+			<Answer>B. Good Morning</Answer>
+			<Answer>C. Good Afternoon</Answer>
+			<Answer>D. Good Bye</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Biyan : “Well Fida, I think we have to go now, the movie is started to play”
+			Fida : “oh okay, __”
+			Biyan : “see you.”
+		</Question>
+		<Answers>
+			<Answer>A. How Are You</Answer>
+			<Answer>B. Where Are You Going</Answer>
+			<Answer>C. Nice To Meet You</Answer>
+			<Answer>D. See You Later</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>s
+	<QuestionSet>
+		<Question>Faiz and Rizqi is in the cinema to watch a movie. 
+			Suddenly they meets  Aji, Friend of Faiz outside of the cinema.
+			
+			Faiz : “Hello Aji, Good Afternoon.”
+			Aji : “Good Afternoon, Faiz __?”
+			Faiz : “I’m fine thank you and how about you?”
+		</Question>
+		<Answers>
+			<Answer>A. Nice To Meet You</Answer>
+			<Answer>B. Where Are You?</Answer>
+			<Answer>C. How Are You?</Answer>
+			<Answer>D. Glad To See You</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Alif : “I have to go now. Nice to meet you Biyan.”
+			Biyan : “__ , Alif”
+		</Question>
+		<Answers>
+			<Answer>A. Nice to meet you too</Answer>
+			<Answer>B. How do you do?</Answer>
+			<Answer>C. Pleased to meet you</Answer>
+			<Answer>D. Bye</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Budi   : “Listen, the bell is ringing. Good bye, Tova”
+			Tova  : “___, Budi”
+		</Question>
+		<Answers>
+			<Answer>A. Nice to meet you</Answer>
+			<Answer>B. How do you do?</Answer>
+			<Answer>C. Good bye</Answer>
+			<Answer>D. See you</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Rina    : “Hi, Angga. This is Mia”
+			Angga  : “Hi, Rina. How do you do, Mia?”
+			Mia      : “__”
+		</Question>
+		<Answers>
+			<Answer>A. How are you</Answer>
+			<Answer>B. Nice to meet you</Answer>
+			<Answer>C. How is everything</Answer>
+			<Answer>D. How do you do</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>Mr. John    : “This party is very nice. Thanks. I've to go now. ___”
+			Mr Edward : “See you”
+		</Question>
+		<Answers>
+			<Answer>A. See you later</Answer>
+			<Answer>B. How do you do</Answer>
+			<Answer>C. Nice to meet you</Answer>
+			<Answer>D. Bye</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			You meet a friend on the way to school. What do you say?
+		</Question>
+		<Answers>
+			<Answer>A. Good morning</Answer>
+			<Answer>B. Good evening</Answer>
+			<Answer>C. Good night</Answer>
+			<Answer>D. Good bye</Answer>
+		</Answers>
+		<CorrectAnswerIndex>1</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Father : “Have a nice dream, son!”
+			Fida : “____”
+		</Question>
+		<Answers>
+			<Answer>A. Nice to meet you</Answer>
+			<Answer>B. Have a nice holiday</Answer>
+			<Answer>C. See you</Answer>
+			<Answer>D. You too</Answer>
+		</Answers>
+		<CorrectAnswerIndex>4</CorrectAnswerIndex>
+	</QuestionSet>
+	<QuestionSet>
+		<Question>
+			Michell : “Hello, Biyan ____?”
+			Biyan : “Hi, I’m fine. Thank you”
+		</Question>
+		<Answers>
+			<Answer>A. Good morning</Answer>
+			<Answer>B. Nice to meet you </Answer>
+			<Answer>C. How are you?</Answer>
+			<Answer>D. see you later!</Answer>
+		</Answers>
+		<CorrectAnswerIndex>3</CorrectAnswerIndex>
+	</QuestionSet>
+</QuestionAndAnswers>

@@ -1,0 +1,1 @@
+Hati hati di jalan! Jangan Lupa Belajar

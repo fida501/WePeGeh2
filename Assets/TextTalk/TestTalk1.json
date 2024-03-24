@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[{"#":"EXTERNAL chosen(Jawaban)"},"ev","str","^Bu Novi","/str",{"x()":"giveSpeakerName","exArgs":1},"pop","/ev","\n","^Hati hati di jalan nak","\n","ev","str","^Firied","/str",{"x()":"giveSpeakerName","exArgs":1},"pop","/ev","\n","^Baik Bu","\n",["done",{"#f":5,"#n":"g-0"}],null],"done",{"#f":1}],"listDefs":{}}
